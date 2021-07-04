@@ -42,7 +42,7 @@ if s==1:
     addlist(list4,reslist)
     print(addlist(list8,reslist))
 
-else:
+elif s==2:
     addlist(list5,reslist)
     addlist(list1,reslist)
     addlist(list6,reslist)
@@ -51,5 +51,7 @@ else:
     addlist(list3,reslist)
     addlist(list8,reslist)
     print(addlist(list4,reslist))
+else:
+    print("Invalid input!")
 
 
