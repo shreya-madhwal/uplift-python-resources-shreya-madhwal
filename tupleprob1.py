@@ -51,6 +51,8 @@ elif s==2:
     addlist(list3,reslist)
     addlist(list8,reslist)
     print(addlist(list4,reslist))
+else:
+    print("Invalid input!")
 
 else:
     print("Invalid input")
