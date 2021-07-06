@@ -53,9 +53,6 @@ elif s==2:
     print(addlist(list4,reslist))
 else:
     print("Invalid input!")
-
-else:
-    print("Invalid input")
     exit()
 
 
